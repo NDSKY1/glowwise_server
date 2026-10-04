@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1787594626000805",
+    "productId": "21",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 5,
+    "comment": "Holy grail product – already on my second bottle.",
+    "createdAt": "2026-08-24T18:03:46.000Z",
+    "updatedAt": "2026-08-24T18:03:46.000Z"
+  },
+  {
+    "id": "1787335426000106",
+    "productId": "15",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 5,
+    "comment": "Lightweight, absorbs quickly and works beautifully.",
+    "createdAt": "2026-08-21T18:03:46.000Z",
+    "updatedAt": "2026-08-21T18:03:46.000Z"
+  },
+  {
+    "id": "1787941916000978",
+    "productId": "12",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 5,
+    "comment": "Absolutely love it! My skin feels so much better.",
+    "createdAt": "2026-08-28T18:31:56.000Z",
+    "updatedAt": "2026-08-28T18:31:56.000Z"
+  },
+  {
+    "id": "1789066509000609",
+    "productId": "6",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 3,
+    "comment": "Decent, but results take time.",
+    "createdAt": "2026-09-10T18:55:09.000Z",
+    "updatedAt": "2026-09-10T18:55:09.000Z"
+  },
+  {
+    "id": "1789207224000505",
+    "productId": "13",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 4,
+    "comment": "Works well for me, slightly pricey but worth it.",
+    "createdAt": "2026-09-12T10:00:24.000Z",
+    "updatedAt": "2026-09-12T10:00:24.000Z"
+  },
+  {
+    "id": "1789661501000671",
+    "productId": "3",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 4,
+    "comment": "Good results, will buy again during a sale.",
+    "createdAt": "2026-09-17T16:11:41.000Z",
+    "updatedAt": "2026-09-17T16:11:41.000Z"
+  },
+  {
+    "id": "1790369307000996",
+    "productId": "10",
+    "mobile": "9876500001",
+    "userName": "Jhanvi Kuvadiya",
+    "rating": 5,
+    "comment": "Holy grail product – already on my second bottle.",
+    "createdAt": "2026-09-25T20:48:27.000Z",
+    "updatedAt": "2026-09-25T20:48:27.000Z"
+  },
+  {
+    "id": "1788517512000253",
+    "productId": "4",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 4,
+    "comment": "Nice texture and pleasant fragrance.",
+    "createdAt": "2026-09-04T10:25:12.000Z",
+    "updatedAt": "2026-09-04T10:25:12.000Z"
+  },
+  {
+    "id": "1788603912000479",
+    "productId": "16",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 5,
+    "comment": "Holy grail product – already on my second bottle.",
+    "createdAt": "2026-09-05T10:25:12.000Z",
+    "updatedAt": "2026-09-05T10:25:12.000Z"
+  },
+  {
+    "id": "1789034233000720",
+    "productId": "9",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 5,
+    "comment": "Holy grail product – already on my second bottle.",
+    "createdAt": "2026-09-10T09:57:13.000Z",
+    "updatedAt": "2026-09-10T09:57:13.000Z"
+  },
+  {
+    "id": "1788947833000178",
+    "productId": "11",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 4,
+    "comment": "Good results, will buy again during a sale.",
+    "createdAt": "2026-09-09T09:57:13.000Z",
+    "updatedAt": "2026-09-09T09:57:13.000Z"
+  },
+  {
+    "id": "1789928070000916",
+    "productId": "2",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 5,
+    "comment": "Absolutely love it! My skin feels so much better.",
+    "createdAt": "2026-09-20T18:14:30.000Z",
+    "updatedAt": "2026-09-20T18:14:30.000Z"
+  },
+  {
+    "id": "1790776944000615",
+    "productId": "22",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 3,
+    "comment": "Decent, but results take time.",
+    "createdAt": "2026-09-30T14:02:24.000Z",
+    "updatedAt": "2026-09-30T14:02:24.000Z"
+  },
+  {
+    "id": "1790697569000565",
+    "productId": "19",
+    "mobile": "9876500002",
+    "userName": "Dhyana Kuvadiya",
+    "rating": 4,
+    "comment": "Works well for me, slightly pricey but worth it.",
+    "createdAt": "2026-09-29T15:59:29.000Z",
+    "updatedAt": "2026-09-29T15:59:29.000Z"
+  }
+]

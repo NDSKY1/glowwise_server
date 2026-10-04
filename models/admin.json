@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Rajvi Saghani",
+    "mobile": "9999999999",
+    "password": "$2b$10$4xXO7JS03rb2Gd/nWozwX.1KvMaoUyttEVrHyUP6XkdJfl/lwgP3C"
+  },
+  {
+    "id": "2",
+    "name": "Ankit khunt",
+    "mobile": "8888888888",
+    "password": "admin123"
+  }
+]

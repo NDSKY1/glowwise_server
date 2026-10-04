@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "vendorName": "Rajvi Saghani",
+<<<<<<< HEAD
+    "shopName": "Rajvi Shop",
+=======
+    "shopName": "shri ji ",
+>>>>>>> 33cece9 (Update GlowWise backend)
+    "mobile": "6359338593",
+    "password": "Rajvi123",
+    "gstNo": "22ABCD1234D3S4",
+    "shopNo": "205",
+    "address": "Radhe road ",
+    "landmark": "Yogi chowkl",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pinCode": "395016",
+    "salesman": "1741844317997",
+    "otp": null,
+    "verified": true,
+    "pendingOrders": 0,
+    "acceptedOrders": 0,
+    "cancelledOrders": 0,
+    "outOfDeliveryOrders": 0,
+    "deliveredOrders": 0,
+    "skinProfile": {
+      "skinType": null,
+      "skinConcerns": [],
+      "preferredCategories": [],
+      "beautyPreferences": []
+    }
+  },
+  {
+    "id": 2,
+    "vendorName": "Ankit",
+    "shopName": "Khunt",
+    "mobile": "9773098248",
+    "password": "Ankit123",
+    "gstNo": "22ABCDE3451D3D4",
+    "shopNo": "205",
+    "address": "Mota varachha ",
+    "landmark": "vesu",
+    "city": "surat",
+    "state": "surat",
+    "pinCode": "395010",
+    "salesman": "1741844317997",
+    "otp": null,
+    "verified": true,
+    "pendingOrders": 0,
+    "acceptedOrders": 0,
+    "cancelledOrders": 0,
+    "outOfDeliveryOrders": 0,
+    "deliveredOrders": 0,
+    "skinProfile": {
+      "skinType": null,
+      "skinConcerns": [],
+      "preferredCategories": [],
+      "beautyPreferences": []
+    }
+  },
+  {
+    "id": 3,
+    "vendorName": "viral rami",
+    "shopName": "Maruti shop",
+    "mobile": "9586148418",
+    "password": "Ankit123",
+    "gstNo": "24ANCD1234D4R4",
+    "shopNo": "205",
+    "address": "shnati",
+    "landmark": "vesu",
+    "city": "Surat",
+    "state": "Gujarat ",
+    "pinCode": "395010",
+    "salesman": "1741844317997",
+    "otp": null,
+    "verified": true,
+    "pendingOrders": 0,
+    "acceptedOrders": 0,
+    "cancelledOrders": 0,
+    "outOfDeliveryOrders": 0,
+    "deliveredOrders": 0,
+    "skinProfile": {
+      "skinType": null,
+      "skinConcerns": [],
+      "preferredCategories": [],
+      "beautyPreferences": []
+    }
+  },
+  {
+    "id": 4,
+    "vendorName": "Jhanvi Kuvadiya",
+    "shopName": "Personal",
+    "mobile": "9876500001",
+    "password": "$2b$10$YZJQk4Z6suFkFs.xbyJFuuUeBicYPyc4uZXosFnjHxPoZVgL4bm66",
+    "gstNo": "",
+    "shopNo": "B-402",
+    "address": "Green Avenue, Vesu",
+    "landmark": "Near VIP Road",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pinCode": "395007",
+    "salesman": "Rahul",
+    "otp": null,
+    "verified": true,
+    "pendingOrders": 2,
+    "acceptedOrders": 1,
+    "cancelledOrders": 1,
+    "outOfDeliveryOrders": 2,
+    "deliveredOrders": 10,
+    "email": "jhanvi.kuvadiya@example.com",
+    "skinProfile": {
+      "skinType": "Combination",
+      "skinConcerns": [
+        "Acne",
+        "Dullness",
+        "Uneven Skin Tone"
+      ],
+      "preferredCategories": [
+        "Skincare",
+        "Makeup",
+        "Sun Care"
+      ],
+      "beautyPreferences": [
+        "Fragrance-free",
+        "Lightweight textures"
+      ],
+      "source": "manual",
+      "updatedAt": "2026-08-04T10:24:25.466Z"
+    },
+    "createdAt": "2026-08-02T10:24:25.466Z",
+    "updatedAt": "2026-08-02T10:24:25.466Z",
+    "isDemo": true
+  },
+  {
+    "id": 5,
+    "vendorName": "Dhyana Kuvadiya",
+    "shopName": "Personal",
+    "mobile": "9876500002",
+    "password": "$2b$10$5/4HxB6rmFjQ.ZANOCI9k.f2kcr7/PAsxmuxS0BpS9tiVwlTJcpSK",
+    "gstNo": "",
+    "shopNo": "A-105",
+    "address": "Silver Residency, Adajan",
+    "landmark": "Opp. Star Bazaar",
+    "city": "Surat",
+    "state": "Gujarat",
+    "pinCode": "395009",
+    "salesman": "Rahul",
+    "otp": null,
+    "verified": true,
+    "pendingOrders": 2,
+    "acceptedOrders": 2,
+    "cancelledOrders": 1,
+    "outOfDeliveryOrders": 1,
+    "deliveredOrders": 6,
+    "email": "dhyana.kuvadiya@example.com",
+    "skinProfile": {
+      "skinType": "Dry",
+      "skinConcerns": [
+        "Dryness",
+        "Pigmentation",
+        "Fine Lines"
+      ],
+      "preferredCategories": [
+        "Skincare",
+        "Body Care",
+        "Haircare"
+      ],
+      "beautyPreferences": [
+        "Rich creams",
+        "Floral scents"
+      ],
+      "source": "manual",
+      "updatedAt": "2026-08-02T10:24:25.466Z"
+    },
+    "createdAt": "2026-07-31T10:24:25.466Z",
+    "updatedAt": "2026-07-31T10:24:25.466Z",
+    "isDemo": true
+  }
+]

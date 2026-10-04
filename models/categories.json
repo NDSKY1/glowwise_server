@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Skincare",
+    "total_products": 6,
+    "img": "/categories_img/skincare.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Makeup",
+    "total_products": 3,
+    "img": "/categories_img/makeup.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Haircare",
+    "total_products": 4,
+    "img": "/categories_img/haircare.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Body Care",
+    "total_products": 2,
+    "img": "/categories_img/body-care.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Fragrance",
+    "total_products": 2,
+    "img": "/categories_img/fragrance.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lip Care",
+    "total_products": 1,
+    "img": "/categories_img/lip-care.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Face Care",
+    "total_products": 2,
+    "img": "/categories_img/face-care.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sun Care",
+    "total_products": 2,
+    "img": "/categories_img/sun-care.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Wellness",
+    "total_products": 1,
+    "img": "/categories_img/wellness.jpg"
+  }
+]

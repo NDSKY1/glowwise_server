@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1742014092303",
+    "name": "Preet Vachhani",
+    "mobile": "9876501234",
+    "email": "preet@gmail.com",
+    "status": true,
+    "createdAt": "2025-03-15T04:48:12.303Z",
+    "updatedAt": "2025-03-15T04:48:12.303Z"
+  },
+  {
+    "id": "1742014174482",
+    "name": "sujal hirpara",
+    "mobile": "1234567890",
+    "email": "sujal@gmail.com",
+    "status": true,
+    "createdAt": "2025-03-15T04:49:34.482Z",
+    "updatedAt": "2025-03-15T04:49:34.482Z"
+  }
+]

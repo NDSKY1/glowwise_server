@@ -1,0 +1,1375 @@
+[
+  {
+    "_id": "1",
+    "categories_id": "1",
+    "productName": "Vitamin C 10% Face Serum",
+    "brand": "Lumière Lab",
+    "subcategory": "Serum",
+    "productDescription": "<p>A lightweight, fast-absorbing vitamin C serum that brightens dull skin and helps reduce the look of pigmentation for a more even, radiant complexion.</p>",
+    "productMainImage": "uploads/lumiere-lab-vitamin-c-10-face-serum.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/lumiere-lab-vitamin-c-10-face-serum.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/lumiere-lab-vitamin-c-10-face-serum-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/lumiere-lab-vitamin-c-10-face-serum-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "30ml",
+        "priceForWholesaler": 599,
+        "priceForRetailer": 699
+      }
+    ],
+    "status": "active",
+    "slug": "lumiere-lab-vitamin-c-10-face-serum",
+    "rating": 4.6,
+    "reviewCount": 1284,
+    "baseRating": 4.6,
+    "baseReviewCount": 1284,
+    "stock": 119,
+    "keyIngredients": [
+      "Vitamin C (Ethyl Ascorbic Acid)",
+      "Hyaluronic Acid",
+      "Ferulic Acid"
+    ],
+    "benefits": [
+      "Brightens dull skin",
+      "Helps fade dark spots",
+      "Evens out skin tone",
+      "Antioxidant protection"
+    ],
+    "howToUse": "Apply 3–4 drops on clean, dry skin in the morning. Follow with moisturizer and sunscreen.",
+    "skinTypes": [
+      "Normal",
+      "Oily",
+      "Combination"
+    ],
+    "skinConcerns": [
+      "Dullness",
+      "Pigmentation",
+      "Uneven Skin Tone"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "2",
+    "categories_id": "1",
+    "productName": "Gentle Foaming Face Cleanser",
+    "brand": "PureDew",
+    "subcategory": "Cleanser",
+    "productDescription": "<p>A soap-free, low-foam cleanser that removes dirt and impurities while keeping skin soft, hydrated and comfortable.</p>",
+    "productMainImage": "uploads/puredew-gentle-foaming-face-cleanser.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/puredew-gentle-foaming-face-cleanser.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/puredew-gentle-foaming-face-cleanser-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/puredew-gentle-foaming-face-cleanser-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "100ml",
+        "priceForWholesaler": 349,
+        "priceForRetailer": 399
+      },
+      {
+        "_id": "p2",
+        "size": "200ml",
+        "priceForWholesaler": 599,
+        "priceForRetailer": 699
+      }
+    ],
+    "status": "active",
+    "slug": "puredew-gentle-foaming-face-cleanser",
+    "rating": 4.5,
+    "reviewCount": 933,
+    "baseRating": 4.5,
+    "baseReviewCount": 932,
+    "stock": 197,
+    "keyIngredients": [
+      "Glycerin",
+      "Ceramides",
+      "Panthenol"
+    ],
+    "benefits": [
+      "Cleanses without stripping moisture",
+      "Supports the skin barrier",
+      "Soap-free and pH balanced"
+    ],
+    "howToUse": "Massage a small amount onto damp face, then rinse with lukewarm water. Use morning and night.",
+    "skinTypes": [
+      "Normal",
+      "Dry",
+      "Combination",
+      "Sensitive"
+    ],
+    "skinConcerns": [
+      "Dryness",
+      "Sensitivity"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "3",
+    "categories_id": "1",
+    "productName": "Oil-Free Gel Face Wash",
+    "brand": "ClearLeaf",
+    "subcategory": "Face Wash",
+    "productDescription": "<p>A refreshing gel face wash with salicylic acid that deep-cleans pores and keeps oil and breakouts in check.</p>",
+    "productMainImage": "uploads/clearleaf-oil-free-gel-face-wash.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/clearleaf-oil-free-gel-face-wash.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/clearleaf-oil-free-gel-face-wash-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/clearleaf-oil-free-gel-face-wash-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "100ml",
+        "priceForWholesaler": 249,
+        "priceForRetailer": 299
+      }
+    ],
+    "status": "active",
+    "slug": "clearleaf-oil-free-gel-face-wash",
+    "rating": 4.3,
+    "reviewCount": 2141,
+    "baseRating": 4.3,
+    "baseReviewCount": 2140,
+    "stock": 246,
+    "keyIngredients": [
+      "Salicylic Acid 1%",
+      "Tea Tree Oil",
+      "Zinc PCA"
+    ],
+    "benefits": [
+      "Controls excess oil",
+      "Unclogs pores",
+      "Helps reduce breakouts"
+    ],
+    "howToUse": "Use twice daily on wet skin, lather gently and rinse. Avoid the eye area.",
+    "skinTypes": [
+      "Oily",
+      "Combination"
+    ],
+    "skinConcerns": [
+      "Acne",
+      "Oiliness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "4",
+    "categories_id": "1",
+    "productName": "Hydrating Ceramide Moisturizer",
+    "brand": "Dewbloom",
+    "subcategory": "Moisturizer",
+    "productDescription": "<p>A rich yet non-greasy cream that locks in moisture and strengthens the skin barrier for soft, supple skin.</p>",
+    "productMainImage": "uploads/dewbloom-hydrating-ceramide-moisturizer.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/dewbloom-hydrating-ceramide-moisturizer.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/dewbloom-hydrating-ceramide-moisturizer-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/dewbloom-hydrating-ceramide-moisturizer-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "50g",
+        "priceForWholesaler": 469,
+        "priceForRetailer": 549
+      }
+    ],
+    "status": "active",
+    "slug": "dewbloom-hydrating-ceramide-moisturizer",
+    "rating": 4.7,
+    "reviewCount": 1541,
+    "baseRating": 4.7,
+    "baseReviewCount": 1540,
+    "stock": 139,
+    "keyIngredients": [
+      "Ceramides",
+      "Hyaluronic Acid",
+      "Squalane"
+    ],
+    "benefits": [
+      "Deep 24-hour hydration",
+      "Repairs the moisture barrier",
+      "Softens rough patches"
+    ],
+    "howToUse": "Apply a pea-sized amount to face and neck after serum, morning and night.",
+    "skinTypes": [
+      "Dry",
+      "Normal",
+      "Sensitive"
+    ],
+    "skinConcerns": [
+      "Dryness",
+      "Sensitivity",
+      "Fine Lines"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "5",
+    "categories_id": "1",
+    "productName": "Lightweight Oil-Free Moisturizer",
+    "brand": "ClearLeaf",
+    "subcategory": "Moisturizer",
+    "productDescription": "<p>A water-light gel moisturizer that hydrates oily skin while leaving a fresh, matte finish.</p>",
+    "productMainImage": "uploads/clearleaf-lightweight-oil-free-moisturizer.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/clearleaf-lightweight-oil-free-moisturizer.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/clearleaf-lightweight-oil-free-moisturizer-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/clearleaf-lightweight-oil-free-moisturizer-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "50g",
+        "priceForWholesaler": 389,
+        "priceForRetailer": 449
+      }
+    ],
+    "status": "active",
+    "slug": "clearleaf-lightweight-oil-free-moisturizer",
+    "rating": 4.4,
+    "reviewCount": 876,
+    "baseRating": 4.4,
+    "baseReviewCount": 876,
+    "stock": 160,
+    "keyIngredients": [
+      "Niacinamide",
+      "Green Tea Extract",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Hydrates without heaviness",
+      "Mattifying finish",
+      "Non-comedogenic"
+    ],
+    "howToUse": "Apply evenly on clean skin. Ideal under sunscreen or makeup.",
+    "skinTypes": [
+      "Oily",
+      "Combination"
+    ],
+    "skinConcerns": [
+      "Oiliness",
+      "Acne"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "6",
+    "categories_id": "1",
+    "productName": "Niacinamide 10% + Zinc Serum",
+    "brand": "Lumière Lab",
+    "subcategory": "Serum",
+    "productDescription": "<p>A daily serum that refines pores, controls shine and visibly improves uneven texture.</p>",
+    "productMainImage": "uploads/lumiere-lab-niacinamide-10-zinc-serum.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/lumiere-lab-niacinamide-10-zinc-serum.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/lumiere-lab-niacinamide-10-zinc-serum-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/lumiere-lab-niacinamide-10-zinc-serum-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "30ml",
+        "priceForWholesaler": 499,
+        "priceForRetailer": 599
+      }
+    ],
+    "status": "active",
+    "slug": "lumiere-lab-niacinamide-10-zinc-serum",
+    "rating": 4.5,
+    "reviewCount": 1968,
+    "baseRating": 4.5,
+    "baseReviewCount": 1967,
+    "stock": 176,
+    "keyIngredients": [
+      "Niacinamide 10%",
+      "Zinc PCA 1%"
+    ],
+    "benefits": [
+      "Minimises the look of pores",
+      "Balances oil",
+      "Fades post-acne marks"
+    ],
+    "howToUse": "Apply a few drops morning and evening before moisturizer.",
+    "skinTypes": [
+      "Oily",
+      "Combination",
+      "Normal"
+    ],
+    "skinConcerns": [
+      "Acne",
+      "Oiliness",
+      "Dark Spots",
+      "Uneven Skin Tone"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "7",
+    "categories_id": "8",
+    "productName": "SPF 50 PA++++ Sunscreen Gel",
+    "brand": "SunVeil",
+    "subcategory": "Sunscreen",
+    "productDescription": "<p>An ultra-light, non-sticky gel sunscreen with SPF 50 PA++++ that protects without a white cast.</p>",
+    "productMainImage": "uploads/sunveil-spf-50-pa-sunscreen-gel.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/sunveil-spf-50-pa-sunscreen-gel.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/sunveil-spf-50-pa-sunscreen-gel-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/sunveil-spf-50-pa-sunscreen-gel-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "50g",
+        "priceForWholesaler": 429,
+        "priceForRetailer": 499
+      }
+    ],
+    "status": "active",
+    "slug": "sunveil-spf-50-pa-sunscreen-gel",
+    "rating": 4.6,
+    "reviewCount": 2310,
+    "baseRating": 4.6,
+    "baseReviewCount": 2310,
+    "stock": 216,
+    "keyIngredients": [
+      "Broad-spectrum UV filters",
+      "Niacinamide",
+      "Vitamin E"
+    ],
+    "benefits": [
+      "High UVA/UVB protection",
+      "No white cast",
+      "Oil-control gel texture"
+    ],
+    "howToUse": "Apply generously 15 minutes before sun exposure. Reapply every 2–3 hours.",
+    "skinTypes": [
+      "Oily",
+      "Combination",
+      "Normal"
+    ],
+    "skinConcerns": [
+      "Pigmentation",
+      "Dark Spots",
+      "Oiliness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "8",
+    "categories_id": "8",
+    "productName": "Mineral Sunscreen SPF 50 for Sensitive Skin",
+    "brand": "SunVeil",
+    "subcategory": "Sunscreen",
+    "productDescription": "<p>A fragrance-free mineral sunscreen designed for sensitive skin, with soothing centella.</p>",
+    "productMainImage": "uploads/sunveil-mineral-sunscreen-spf-50-for-sensitive-skin.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/sunveil-mineral-sunscreen-spf-50-for-sensitive-skin.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/sunveil-mineral-sunscreen-spf-50-for-sensitive-skin-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/sunveil-mineral-sunscreen-spf-50-for-sensitive-skin-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "50g",
+        "priceForWholesaler": 559,
+        "priceForRetailer": 649
+      }
+    ],
+    "status": "active",
+    "slug": "sunveil-mineral-sunscreen-spf-50-for-sensitive-skin",
+    "rating": 4.4,
+    "reviewCount": 712,
+    "baseRating": 4.4,
+    "baseReviewCount": 712,
+    "stock": 106,
+    "keyIngredients": [
+      "Zinc Oxide",
+      "Titanium Dioxide",
+      "Centella Asiatica"
+    ],
+    "benefits": [
+      "Gentle physical sun protection",
+      "Fragrance-free",
+      "Calms redness"
+    ],
+    "howToUse": "Apply as the last step of your morning routine. Reapply after sweating or swimming.",
+    "skinTypes": [
+      "Sensitive",
+      "Dry",
+      "Normal"
+    ],
+    "skinConcerns": [
+      "Sensitivity",
+      "Pigmentation"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "9",
+    "categories_id": "7",
+    "productName": "Soothing Aloe Toner",
+    "brand": "PureDew",
+    "subcategory": "Toner",
+    "productDescription": "<p>An alcohol-free toner that hydrates and soothes skin, leaving it fresh and balanced.</p>",
+    "productMainImage": "uploads/puredew-soothing-aloe-toner.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/puredew-soothing-aloe-toner.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/puredew-soothing-aloe-toner-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/puredew-soothing-aloe-toner-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "150ml",
+        "priceForWholesaler": 299,
+        "priceForRetailer": 349
+      }
+    ],
+    "status": "active",
+    "slug": "puredew-soothing-aloe-toner",
+    "rating": 4.2,
+    "reviewCount": 541,
+    "baseRating": 4.2,
+    "baseReviewCount": 540,
+    "stock": 126,
+    "keyIngredients": [
+      "Aloe Vera",
+      "Rose Water",
+      "Panthenol"
+    ],
+    "benefits": [
+      "Instantly refreshes",
+      "Calms irritation",
+      "Preps skin for serums"
+    ],
+    "howToUse": "After cleansing, pat onto face with palms or a cotton pad.",
+    "skinTypes": [
+      "Normal",
+      "Dry",
+      "Oily",
+      "Combination",
+      "Sensitive"
+    ],
+    "skinConcerns": [
+      "Sensitivity",
+      "Dryness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "10",
+    "categories_id": "7",
+    "productName": "Brightening Clay Face Mask",
+    "brand": "Dewbloom",
+    "subcategory": "Face Mask",
+    "productDescription": "<p>A purifying clay mask that clears congested pores and reveals brighter-looking skin.</p>",
+    "productMainImage": "uploads/dewbloom-brightening-clay-face-mask.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/dewbloom-brightening-clay-face-mask.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/dewbloom-brightening-clay-face-mask-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/dewbloom-brightening-clay-face-mask-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "100g",
+        "priceForWholesaler": 399,
+        "priceForRetailer": 499
+      }
+    ],
+    "status": "active",
+    "slug": "dewbloom-brightening-clay-face-mask",
+    "rating": 4.3,
+    "reviewCount": 489,
+    "baseRating": 4.3,
+    "baseReviewCount": 488,
+    "stock": 86,
+    "keyIngredients": [
+      "Kaolin Clay",
+      "Licorice Extract",
+      "Turmeric"
+    ],
+    "benefits": [
+      "Draws out impurities",
+      "Boosts radiance",
+      "Smooths texture"
+    ],
+    "howToUse": "Apply an even layer, leave for 10 minutes and rinse. Use 2–3 times a week.",
+    "skinTypes": [
+      "Oily",
+      "Combination",
+      "Normal"
+    ],
+    "skinConcerns": [
+      "Dullness",
+      "Oiliness",
+      "Uneven Skin Tone"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "11",
+    "categories_id": "6",
+    "productName": "Nourishing Shea Lip Balm",
+    "brand": "Velvet Rose",
+    "subcategory": "Lip Balm",
+    "productDescription": "<p>A buttery lip balm that deeply nourishes and protects dry lips.</p>",
+    "productMainImage": "uploads/velvet-rose-nourishing-shea-lip-balm.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/velvet-rose-nourishing-shea-lip-balm.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/velvet-rose-nourishing-shea-lip-balm-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/velvet-rose-nourishing-shea-lip-balm-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "4.5g",
+        "priceForWholesaler": 169,
+        "priceForRetailer": 199
+      }
+    ],
+    "status": "active",
+    "slug": "velvet-rose-nourishing-shea-lip-balm",
+    "rating": 4.5,
+    "reviewCount": 1321,
+    "baseRating": 4.5,
+    "baseReviewCount": 1320,
+    "stock": 297,
+    "keyIngredients": [
+      "Shea Butter",
+      "Vitamin E",
+      "Beeswax"
+    ],
+    "benefits": [
+      "Heals dry, chapped lips",
+      "Long-lasting moisture",
+      "Subtle natural sheen"
+    ],
+    "howToUse": "Apply on lips as often as needed throughout the day.",
+    "skinTypes": [
+      "Normal",
+      "Dry",
+      "Oily",
+      "Combination",
+      "Sensitive"
+    ],
+    "skinConcerns": [
+      "Dryness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "12",
+    "categories_id": "2",
+    "productName": "Matte Liquid Lipstick",
+    "brand": "Velvet Rose",
+    "subcategory": "Lipstick",
+    "productDescription": "<p>A highly pigmented liquid lipstick with a velvety matte finish that lasts all day.</p>",
+    "productMainImage": "uploads/velvet-rose-matte-liquid-lipstick.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/velvet-rose-matte-liquid-lipstick.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/velvet-rose-matte-liquid-lipstick-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/velvet-rose-matte-liquid-lipstick-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "5ml – Rosewood",
+        "priceForWholesaler": 479,
+        "priceForRetailer": 599
+      },
+      {
+        "_id": "p2",
+        "size": "5ml – Classic Red",
+        "priceForWholesaler": 479,
+        "priceForRetailer": 599
+      },
+      {
+        "_id": "p3",
+        "size": "5ml – Nude Petal",
+        "priceForWholesaler": 479,
+        "priceForRetailer": 599
+      }
+    ],
+    "status": "active",
+    "slug": "velvet-rose-matte-liquid-lipstick",
+    "rating": 4.4,
+    "reviewCount": 1046,
+    "baseRating": 4.4,
+    "baseReviewCount": 1045,
+    "stock": 146,
+    "keyIngredients": [
+      "Vitamin E",
+      "Jojoba Oil"
+    ],
+    "benefits": [
+      "Transfer-proof matte finish",
+      "Up to 12 hours wear",
+      "Comfortable, non-drying"
+    ],
+    "howToUse": "Line lips with the applicator tip, then fill in. Let it set for 30 seconds.",
+    "skinTypes": [],
+    "skinConcerns": [],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "13",
+    "categories_id": "2",
+    "productName": "Longwear Liquid Foundation",
+    "brand": "Aura Beauty",
+    "subcategory": "Foundation",
+    "productDescription": "<p>A lightweight foundation that evens skin tone with buildable coverage and a natural finish.</p>",
+    "productMainImage": "uploads/aura-beauty-longwear-liquid-foundation.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/aura-beauty-longwear-liquid-foundation.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/aura-beauty-longwear-liquid-foundation-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/aura-beauty-longwear-liquid-foundation-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "30ml – Ivory",
+        "priceForWholesaler": 749,
+        "priceForRetailer": 899
+      },
+      {
+        "_id": "p2",
+        "size": "30ml – Beige",
+        "priceForWholesaler": 749,
+        "priceForRetailer": 899
+      },
+      {
+        "_id": "p3",
+        "size": "30ml – Honey",
+        "priceForWholesaler": 749,
+        "priceForRetailer": 899
+      }
+    ],
+    "status": "active",
+    "slug": "aura-beauty-longwear-liquid-foundation",
+    "rating": 4.3,
+    "reviewCount": 861,
+    "baseRating": 4.3,
+    "baseReviewCount": 860,
+    "stock": 95,
+    "keyIngredients": [
+      "Hyaluronic Acid",
+      "SPF 15"
+    ],
+    "benefits": [
+      "Medium-to-full buildable coverage",
+      "Natural satin finish",
+      "Sweat resistant"
+    ],
+    "howToUse": "Dot on face and blend outward with a sponge or brush.",
+    "skinTypes": [
+      "Normal",
+      "Oily",
+      "Combination"
+    ],
+    "skinConcerns": [
+      "Uneven Skin Tone"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "14",
+    "categories_id": "2",
+    "productName": "Volumizing Waterproof Mascara",
+    "brand": "Aura Beauty",
+    "subcategory": "Mascara",
+    "productDescription": "<p>A waterproof mascara that lifts and volumizes lashes without clumping.</p>",
+    "productMainImage": "uploads/aura-beauty-volumizing-waterproof-mascara.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/aura-beauty-volumizing-waterproof-mascara.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/aura-beauty-volumizing-waterproof-mascara-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/aura-beauty-volumizing-waterproof-mascara-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "10ml",
+        "priceForWholesaler": 379,
+        "priceForRetailer": 449
+      }
+    ],
+    "status": "active",
+    "slug": "aura-beauty-volumizing-waterproof-mascara",
+    "rating": 4.2,
+    "reviewCount": 690,
+    "baseRating": 4.2,
+    "baseReviewCount": 690,
+    "stock": 130,
+    "keyIngredients": [
+      "Castor Oil",
+      "Panthenol"
+    ],
+    "benefits": [
+      "Dramatic volume",
+      "Smudge-proof & waterproof",
+      "Clump-free"
+    ],
+    "howToUse": "Sweep from root to tip in a zig-zag motion. Remove with an oil-based remover.",
+    "skinTypes": [],
+    "skinConcerns": [],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "15",
+    "categories_id": "3",
+    "productName": "Strengthening Argan Shampoo",
+    "brand": "Silk & Strand",
+    "subcategory": "Shampoo",
+    "productDescription": "<p>A sulphate-free shampoo with argan oil and keratin that strengthens hair and reduces breakage.</p>",
+    "productMainImage": "uploads/silk-and-strand-strengthening-argan-shampoo.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/silk-and-strand-strengthening-argan-shampoo.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/silk-and-strand-strengthening-argan-shampoo-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/silk-and-strand-strengthening-argan-shampoo-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "250ml",
+        "priceForWholesaler": 379,
+        "priceForRetailer": 449
+      },
+      {
+        "_id": "p2",
+        "size": "500ml",
+        "priceForWholesaler": 649,
+        "priceForRetailer": 799
+      }
+    ],
+    "status": "active",
+    "slug": "silk-and-strand-strengthening-argan-shampoo",
+    "rating": 4.4,
+    "reviewCount": 1181,
+    "baseRating": 4.4,
+    "baseReviewCount": 1180,
+    "stock": 201,
+    "keyIngredients": [
+      "Argan Oil",
+      "Keratin",
+      "Biotin"
+    ],
+    "benefits": [
+      "Reduces breakage",
+      "Adds shine",
+      "Sulphate-free formula"
+    ],
+    "howToUse": "Massage into wet hair and scalp, rinse thoroughly. Follow with conditioner.",
+    "skinTypes": [],
+    "skinConcerns": [
+      "Hair Fall",
+      "Frizz"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "16",
+    "categories_id": "3",
+    "productName": "Smoothing Argan Conditioner",
+    "brand": "Silk & Strand",
+    "subcategory": "Conditioner",
+    "productDescription": "<p>A nourishing conditioner that smooths frizz and leaves hair soft and manageable.</p>",
+    "productMainImage": "uploads/silk-and-strand-smoothing-argan-conditioner.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/silk-and-strand-smoothing-argan-conditioner.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/silk-and-strand-smoothing-argan-conditioner-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/silk-and-strand-smoothing-argan-conditioner-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "200ml",
+        "priceForWholesaler": 379,
+        "priceForRetailer": 449
+      }
+    ],
+    "status": "active",
+    "slug": "silk-and-strand-smoothing-argan-conditioner",
+    "rating": 4.5,
+    "reviewCount": 821,
+    "baseRating": 4.5,
+    "baseReviewCount": 820,
+    "stock": 169,
+    "keyIngredients": [
+      "Argan Oil",
+      "Shea Butter"
+    ],
+    "benefits": [
+      "Detangles instantly",
+      "Controls frizz",
+      "Silky, soft finish"
+    ],
+    "howToUse": "Apply to mid-lengths and ends after shampooing, leave for 2 minutes and rinse.",
+    "skinTypes": [],
+    "skinConcerns": [
+      "Frizz",
+      "Dryness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "17",
+    "categories_id": "3",
+    "productName": "Anti-Frizz Hair Serum",
+    "brand": "Silk & Strand",
+    "subcategory": "Hair Serum",
+    "productDescription": "<p>A lightweight serum that instantly smooths frizz and adds mirror-like shine.</p>",
+    "productMainImage": "uploads/silk-and-strand-anti-frizz-hair-serum.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/silk-and-strand-anti-frizz-hair-serum.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/silk-and-strand-anti-frizz-hair-serum-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/silk-and-strand-anti-frizz-hair-serum-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "100ml",
+        "priceForWholesaler": 329,
+        "priceForRetailer": 399
+      }
+    ],
+    "status": "active",
+    "slug": "silk-and-strand-anti-frizz-hair-serum",
+    "rating": 4.3,
+    "reviewCount": 960,
+    "baseRating": 4.3,
+    "baseReviewCount": 960,
+    "stock": 157,
+    "keyIngredients": [
+      "Argan Oil",
+      "Vitamin E",
+      "Silicones"
+    ],
+    "benefits": [
+      "Tames flyaways",
+      "Heat protection",
+      "Glossy shine"
+    ],
+    "howToUse": "Apply 2–3 pumps to damp or dry hair, avoiding the roots.",
+    "skinTypes": [],
+    "skinConcerns": [
+      "Frizz"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "18",
+    "categories_id": "3",
+    "productName": "Rosemary Hair Growth Oil",
+    "brand": "HerbaRoot",
+    "subcategory": "Hair Oil",
+    "productDescription": "<p>A non-sticky herbal hair oil that nourishes the scalp and supports stronger hair.</p>",
+    "productMainImage": "uploads/herbaroot-rosemary-hair-growth-oil.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/herbaroot-rosemary-hair-growth-oil.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/herbaroot-rosemary-hair-growth-oil-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/herbaroot-rosemary-hair-growth-oil-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "100ml",
+        "priceForWholesaler": 299,
+        "priceForRetailer": 349
+      }
+    ],
+    "status": "active",
+    "slug": "herbaroot-rosemary-hair-growth-oil",
+    "rating": 4.2,
+    "reviewCount": 1430,
+    "baseRating": 4.2,
+    "baseReviewCount": 1430,
+    "stock": 190,
+    "keyIngredients": [
+      "Rosemary Oil",
+      "Onion Seed Oil",
+      "Coconut Oil"
+    ],
+    "benefits": [
+      "Nourishes the scalp",
+      "Helps reduce hair fall",
+      "Strengthens roots"
+    ],
+    "howToUse": "Massage into the scalp, leave for at least 1 hour or overnight, then wash.",
+    "skinTypes": [],
+    "skinConcerns": [
+      "Hair Fall",
+      "Dandruff"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "19",
+    "categories_id": "4",
+    "productName": "Cocoa Butter Body Lotion",
+    "brand": "Velour Body",
+    "subcategory": "Body Lotion",
+    "productDescription": "<p>A creamy body lotion that deeply moisturizes and leaves skin soft and smooth all day.</p>",
+    "productMainImage": "uploads/velour-body-cocoa-butter-body-lotion.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/velour-body-cocoa-butter-body-lotion.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/velour-body-cocoa-butter-body-lotion-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/velour-body-cocoa-butter-body-lotion-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "400ml",
+        "priceForWholesaler": 399,
+        "priceForRetailer": 499
+      }
+    ],
+    "status": "active",
+    "slug": "velour-body-cocoa-butter-body-lotion",
+    "rating": 4.5,
+    "reviewCount": 1106,
+    "baseRating": 4.5,
+    "baseReviewCount": 1105,
+    "stock": 175,
+    "keyIngredients": [
+      "Cocoa Butter",
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "benefits": [
+      "48-hour moisture",
+      "Softens rough skin",
+      "Fast absorbing"
+    ],
+    "howToUse": "Massage onto clean skin after a bath, focusing on dry areas.",
+    "skinTypes": [
+      "Dry",
+      "Normal"
+    ],
+    "skinConcerns": [
+      "Dryness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "20",
+    "categories_id": "4",
+    "productName": "Hydrating Coconut Body Wash",
+    "brand": "Velour Body",
+    "subcategory": "Body Wash",
+    "productDescription": "<p>A creamy body wash enriched with coconut milk that cleanses gently and keeps skin hydrated.</p>",
+    "productMainImage": "uploads/velour-body-hydrating-coconut-body-wash.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/velour-body-hydrating-coconut-body-wash.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/velour-body-hydrating-coconut-body-wash-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/velour-body-hydrating-coconut-body-wash-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "250ml",
+        "priceForWholesaler": 329,
+        "priceForRetailer": 399
+      }
+    ],
+    "status": "active",
+    "slug": "velour-body-hydrating-coconut-body-wash",
+    "rating": 4.3,
+    "reviewCount": 640,
+    "baseRating": 4.3,
+    "baseReviewCount": 640,
+    "stock": 166,
+    "keyIngredients": [
+      "Coconut Milk",
+      "Glycerin",
+      "Aloe Vera"
+    ],
+    "benefits": [
+      "Gentle creamy lather",
+      "Moisturizes while cleansing",
+      "Light tropical fragrance"
+    ],
+    "howToUse": "Lather onto wet skin with a loofah and rinse well.",
+    "skinTypes": [
+      "Normal",
+      "Dry",
+      "Oily",
+      "Combination",
+      "Sensitive"
+    ],
+    "skinConcerns": [
+      "Dryness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "21",
+    "categories_id": "5",
+    "productName": "Midnight Bloom Eau de Parfum",
+    "brand": "Maison Éclat",
+    "subcategory": "Perfume",
+    "productDescription": "<p>A sensual floral eau de parfum with jasmine and peony over a warm vanilla-sandalwood base.</p>",
+    "productMainImage": "uploads/maison-eclat-midnight-bloom-eau-de-parfum.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/maison-eclat-midnight-bloom-eau-de-parfum.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/maison-eclat-midnight-bloom-eau-de-parfum-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/maison-eclat-midnight-bloom-eau-de-parfum-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "50ml",
+        "priceForWholesaler": 1599,
+        "priceForRetailer": 1999
+      },
+      {
+        "_id": "p2",
+        "size": "100ml",
+        "priceForWholesaler": 2399,
+        "priceForRetailer": 2999
+      }
+    ],
+    "status": "active",
+    "slug": "maison-eclat-midnight-bloom-eau-de-parfum",
+    "rating": 4.6,
+    "reviewCount": 456,
+    "baseRating": 4.6,
+    "baseReviewCount": 455,
+    "stock": 77,
+    "keyIngredients": [
+      "Jasmine",
+      "Peony",
+      "Vanilla",
+      "Sandalwood"
+    ],
+    "benefits": [
+      "Long-lasting floral scent",
+      "Elegant evening fragrance"
+    ],
+    "howToUse": "Spray on pulse points – wrists, neck and behind the ears.",
+    "skinTypes": [],
+    "skinConcerns": [],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "22",
+    "categories_id": "5",
+    "productName": "Fresh Citrus Body Mist",
+    "brand": "Maison Éclat",
+    "subcategory": "Body Mist",
+    "productDescription": "<p>A bright, uplifting body mist with sparkling citrus and soft orange blossom.</p>",
+    "productMainImage": "uploads/maison-eclat-fresh-citrus-body-mist.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/maison-eclat-fresh-citrus-body-mist.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/maison-eclat-fresh-citrus-body-mist-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/maison-eclat-fresh-citrus-body-mist-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "150ml",
+        "priceForWholesaler": 499,
+        "priceForRetailer": 599
+      }
+    ],
+    "status": "active",
+    "slug": "maison-eclat-fresh-citrus-body-mist",
+    "rating": 4.3,
+    "reviewCount": 611,
+    "baseRating": 4.3,
+    "baseReviewCount": 610,
+    "stock": 134,
+    "keyIngredients": [
+      "Bergamot",
+      "Orange Blossom",
+      "Aloe Vera"
+    ],
+    "benefits": [
+      "Light, refreshing everyday scent",
+      "Alcohol-light formula"
+    ],
+    "howToUse": "Mist all over the body after a shower or whenever you need a refresh.",
+    "skinTypes": [],
+    "skinConcerns": [],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  },
+  {
+    "_id": "23",
+    "categories_id": "9",
+    "productName": "Biotin & Vitamin C Beauty Gummies",
+    "brand": "GlowVita",
+    "subcategory": "Supplements",
+    "productDescription": "<p>Delicious berry-flavoured gummies with biotin, vitamin C and zinc to complement your beauty routine. A food supplement, not a medicine.</p>",
+    "productMainImage": "uploads/glowvita-biotin-and-vitamin-c-beauty-gummies.jpg",
+    "productOtherImages": [
+      {
+        "_id": "img1",
+        "url": "uploads/glowvita-biotin-and-vitamin-c-beauty-gummies.jpg"
+      },
+      {
+        "_id": "img2",
+        "url": "uploads/glowvita-biotin-and-vitamin-c-beauty-gummies-2.jpg"
+      },
+      {
+        "_id": "img3",
+        "url": "uploads/glowvita-biotin-and-vitamin-c-beauty-gummies-3.jpg"
+      }
+    ],
+    "availablePackSizes": [
+      {
+        "_id": "p1",
+        "size": "30 gummies",
+        "priceForWholesaler": 649,
+        "priceForRetailer": 799
+      }
+    ],
+    "status": "active",
+    "slug": "glowvita-biotin-and-vitamin-c-beauty-gummies",
+    "rating": 4.1,
+    "reviewCount": 380,
+    "baseRating": 4.1,
+    "baseReviewCount": 380,
+    "stock": 120,
+    "keyIngredients": [
+      "Biotin",
+      "Vitamin C",
+      "Zinc"
+    ],
+    "benefits": [
+      "Supports healthy hair, skin and nails",
+      "Tasty berry flavour"
+    ],
+    "howToUse": "Chew 1 gummy daily after a meal. Do not exceed the recommended dose. Consult a doctor if pregnant or on medication.",
+    "skinTypes": [],
+    "skinConcerns": [
+      "Hair Fall",
+      "Dullness"
+    ],
+    "createdAt": "2026-10-04T05:05:50.182Z",
+    "updatedAt": "2026-10-04T05:05:50.182Z"
+  }
+]
